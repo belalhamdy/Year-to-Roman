@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1519630647 source:c:\users\belal\desktop\dsgvfd\main.cpp
+	<algorithm>
+	<bitset>
+	<complex>
+	<deque>
+	<exception>
+	<fstream>
+	<functional>
+	<iomanip>
+	<ios>
+	<iosfwd>
+	<iostream>
+	<istream>
+	<iterator>
+	<limits>
+	<list>
+	<locale>
+	<map>
+	<memory>
+	<new>
+	<numeric>
+	<ostream>
+	<queue>
+	<set>
+	<sstream>
+	<stack>
+	<stdexcept>
+	<streambuf>
+	<string>
+	<typeinfo>
+	<utility>
+	<valarray>
+	<vector>
+
+1519519787 source:c:\users\belal\desktop\group task.cpp
+	<iostream>
+	<string>
+
